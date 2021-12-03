@@ -7,7 +7,7 @@ HCI Project - J Component
 </h2>
 
 <h4 align="center">
-https://likhitgarimella.github.io/HCI-Project/
+ https://sakshivaram.github.io/HCI-Project/
 </h4>
 
 <h2 align="center">
